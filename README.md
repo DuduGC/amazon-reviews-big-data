@@ -331,3 +331,8 @@ Os dados utilizados pertencem ao conjunto público **Amazon Reviews 2023**, disp
 Fonte: https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
 
 Este projeto é uma implementação educacional independente e não representa uma solução oficial da Amazon, do McAuley Lab ou da Databricks.
+
+
+## 15. Evidências visuais do ambiente Databricks
+
+Na pasta "images" encontra-se evidências visuais do projeto dentro do ambiente do Databricks.
