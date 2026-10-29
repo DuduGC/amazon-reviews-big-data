@@ -254,7 +254,7 @@ A documentação técnica está organizada em:
 - [Dicionário de dados](docs/data_dictionary.md)
 - [Performance e testes](docs/performance_and_testing.md)
 
-**Observação:** no Workspace de desenvolvimento, os arquivos do pipeline estão em uma pasta separada dos notebooks e documentos. A organização do repositório GitHub será consolidada durante a publicação.
+No Workspace original do Databricks, os arquivos do pipeline permanecem separados dos notebooks e documentos. Neste repositório GitHub, o código está organizado nas pastas `pipelines/`, `notebooks/` e `docs/`.
 
 ## 11. Como reproduzir o projeto
 
